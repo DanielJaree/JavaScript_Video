@@ -46,7 +46,7 @@ body {
 }
 .calculator #clear {
   background-color: #ffd5d8;
-  color: #fc4552;
+  color: #00ffdd;
 }
 .calculator .btn-number {
   background-color: #c3eaff;
@@ -54,7 +54,7 @@ body {
 }
 .calculator .btn-operator {
   background-color: #ffd0fb;
-  color: #f967f3;
+  color: #001aff;
 }
 .calculator .btn-equal {
   background-color: #adf9e7;
